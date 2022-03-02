@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/BaseException.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/FileUtils.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/JsonSsvDeserializer.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/JsonSsvSerializer.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/NexacroParser.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/NexacroParserTest.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/NullUtil.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/PlatformRequest.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/PlatformResponse.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/PlatformTransaction.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/SeperatorReader.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/StreamLog.java=UTF-8
+encoding//src/main/java/com/lgcns/testpilot/common/mapping/parser/nexacro/UtilException.java=UTF-8
+encoding/<project>=UTF-8
