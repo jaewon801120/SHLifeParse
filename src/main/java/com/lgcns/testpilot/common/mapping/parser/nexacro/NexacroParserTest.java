@@ -44,12 +44,12 @@ public class NexacroParserTest {
 			LOGGER.error(e.getMessage(), e);
 		}
 		
-		try {
-			FileUtils.writeFile("D:\\Download\\", "test_hangul.json", ret);
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//		try {
+//			FileUtils.writeFile("D:\\Download\\", "test_hangul.json", ret);
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 
 		return ret;
 	}
@@ -57,16 +57,13 @@ public class NexacroParserTest {
 	public static void main(String[] args) {
 		
 		if (args.length < 1) {
-			//return;
-
-			//String p = "D:\\병행검증솔루션\\Project\\신한오렌지\\PerfecTwin\\case\\nexacro\\오렌지(BIN)\\res";
-			String p = "D:\\병행검증솔루션\\Project\\신한오렌지\\PerfecTwin\\case\\nexacro\\sni\\test_hangul.dat";
-			byte[] byteData = FileUtils.readFileToByte(p);
-			if (byteData == null) {
-				return;
-			}
-			String data = new String(byteData);
-			String ret = getDatafromSSV(data);
+//			String p = "D:\\병행검증솔루션\\Project\\신한오렌지\\PerfecTwin\\case\\nexacro\\sni\\test_hangul.dat";
+//			byte[] byteData = FileUtils.readFileToByte(p);
+//			if (byteData == null) {
+//				return;
+//			}
+//			String data = new String(byteData);
+//			String ret = getDatafromSSV(data);
 			return;
 		}
 		
